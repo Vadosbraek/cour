@@ -1,0 +1,152 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Press+Start+2P&display=swap');
+  body {
+    min-height: 100vh;
+    margin: 0;
+    background: url(images/BG.jpg);
+    /* fond du cite */
+    background-size: cover;
+    /* taille du fond */
+    background-attachment: fixed;
+    /* fond fixée */
+    background:url("images/BG.jpg") fixed ;
+  background-size:cover;
+  background-repeat: no-repeat;
+  /* répetition du fond :non */
+  background-position: center;
+  /* position du fond */
+  }
+h1{
+    text-align: center;
+    /* alignement de texte */
+    text-transform: uppercase;
+    /* police de texte */
+    background-color:black;border-radius: 20px;
+    /* couleur de fond et arrondi des coin */
+color: white;
+/* couleur */
+    font-family: 'Press Start 2P', cursive;
+   /* j'avais mal positioné les commende CSS */
+}
+h2{
+background: linear-gradient(blue,white);border-radius: 20% 0 20% 0;
+/* dégradé de couleur */
+border-radius: 20px 0 20px 0;
+/* arondir les bord */
+}
+a{
+  color:black;
+  /* couleur */
+  font-weight:bold;
+  /* taille du fond */
+ 
+}
+em{
+  color:#168314d6;
+  /* couleur */
+}
+
+ li{
+  display: list-item;
+  /* disposition de la liste */
+
+  text-align: -webkit-match-
+  parent;
+ }
+ /* j'avais oublié la balise LI */
+ ::marker{
+  user agent stylesheeet
+  unicode-bidi: isolate;
+  font-variant-numeric: tabular-nums;
+  text-transform: none;
+  text-indent: 0px !important;
+  text-align: start !important;
+  text-align-last: start !important;
+
+ }
+ /* j'avais oublié la balisse ::marker */
+ ol{
+  list-style-type: decimal;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+
+ 
+/* j'avais oublié la balisse ol */
+
+ 
+
+
+
+
+
+ ol{ 
+  padding: 0;
+  display: flex;
+  justify-content: space-around;}
+ol,p{
+  background: rgba(255, 255, 255, 0.5);7
+  /* zone blanche */
+  
+   
+}
+img,ol{
+border: solid 2px green;
+/* taille de l'encadré */
+
+}
+
+ ol{
+  border: solid 5px green;
+  /* bordure */
+  padding: 10px;
+  border-radius: 10px;
+  /* coin de la bordure */
+  margin-top: 20px;
+  
+}
+ul,p{
+  background: rgba(255, 255, 255, 0.5);
+  /* fond trensparent */
+  
+}
+ul{
+  border: solid 5px green;
+  /* bordure */
+  padding: 10px;
+  border-radius: 10px;
+  /* coin de la bordure */
+  margin-top: 20px;
+  
+}
+ul{
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+img,ul{
+  border: solid 2px green;
+  /* bordure */
+}
+
+ol{
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+ 
+
+
+
+   
+
+
+
+
+
+ 
+
+  
